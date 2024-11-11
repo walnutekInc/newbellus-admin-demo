@@ -1,0 +1,1 @@
+import{d as r,a6 as s,a9 as c,ad as p,a8 as u,$ as l}from"./vue-BrVXbuSH.js";const _=r({__name:"redirect",setup(d){const n=p(),t=u(),e=n.params,o=e!=null&&e.path?decodeURIComponent(e.path):"";return o?t.replace(o):t.replace("/"),(i,a)=>(l(),s("div",null,a[0]||(a[0]=[c("h1",null,"Redirecting...",-1)])))}});export{_ as default};
